@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-javascript-projects",
+  "version": "1.0.0",
+  "description": "40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrleySilvestre/Vanilla-JavaScript-Projects.git"
+  },
+  "author": "Irley J Silvestre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IrleySilvestre/Vanilla-JavaScript-Projects/issues"
+  },
+  "homepage": "https://github.com/IrleySilvestre/Vanilla-JavaScript-Projects#readme"
+}
