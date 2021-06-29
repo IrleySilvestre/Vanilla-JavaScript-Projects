@@ -1,0 +1,17 @@
+.subtitle{
+    font-size: 2rem;
+}
+
+.subtitle--small{
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 5px;
+
+}
+
+.subtitle--blue{
+    text-transform: uppercase;
+    font-size: .8rem;
+    color: blue;
+    margin: 15px;
+}

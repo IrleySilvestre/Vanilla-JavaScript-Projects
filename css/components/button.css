@@ -1,0 +1,35 @@
+.btn {
+    align-items: center;
+    border: 2px solid #3b3a3a;
+    border-radius: 4px;
+    padding: 0.5rem;
+    width: 7rem;
+    margin: 1rem;
+    transition: transform 1s;
+}
+
+.btn:hover {
+    transform: scale(1.1);
+    background-color: #3b3a3a;
+}
+
+.btn--small{
+    background-color:#ffffff;
+    padding: .3rem;
+    width: 4.8rem;
+    font-size: .7rem;
+    font-weight: bold;
+    color: #42929c;
+    border: 1px solid #42929c;
+}
+
+.btn--prev{
+    background-color:#ffffff;
+    padding: .3rem;
+    width: 2rem;
+    font-size: .7rem;
+    font-weight: bold;
+    color: #42929c;
+    border: none;
+    margin: .5rem;
+}
